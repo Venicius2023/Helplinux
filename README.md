@@ -43,5 +43,5 @@ Para rodar o script, você não precisa ser um expert no terminal. Basta seguir 
 
   * 002 -- Backup: Embora o script seja seguro, sempre é recomendável ter backup de seus arquivos importantes antes de grandes atualizações.
 
-🤝 Contribuição
-!!Esse script foi criado para atender meus novos clientes,  por esse motivo ele é simples... mas desde de ja agradeço qualquer contribuição !!
+### 🤝 Contribuição
+  !!Esse script foi criado para atender meus novos clientes,  por esse motivo ele é simples... mas desde de ja agradeço qualquer contribuição !!
