@@ -1,7 +1,6 @@
 #! usr/bin/env bash
 
-echo "AUTHOR:VENICIUS RODRIGUES"
-echo "PROGRAMA-ID:HELPLINUX"
+echo "Bem Vindo"
 sleep 4
 clear
 
