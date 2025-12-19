@@ -10,21 +10,21 @@ VERDE='\e[32m'
 AMARELO='\e[33m'
 SEM_COR='\e[0m'
 
-    opecoes=("Atualizar Arquivos" "Corrigir Pacotes" "Software Populares" "Sair" )
+    opecoes=("Atualizar" "Corrigir" "Software Populares" "Sair" )
 
 echo -e "${VERDE}----MENU PRINCIPAL----${SEM_COR}"
 select ESCOLHA in "${opecoes[@]}"
     do
         case  $ESCOLHA in
-            "Atualizar Arquivos")
-                echo "Atualizando os arquivos..."
+            "Atualizar")
+                echo "Atualizando..."
                 sudo apt update
                 sudo apt upgrade
                 clear
                 ;;
 
-            "Corrigir Pacotes")
-                echo "Corrigindo Pacotes Corrompidos"
+            "Corrigir")
+                echo "Corrigindo..."
                 sudo dpkg --configure -a
                 clear
                 ;;
