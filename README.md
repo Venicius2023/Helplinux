@@ -24,6 +24,10 @@ Para rodar o script, você não precisa ser um expert no terminal. Basta seguir 
   002 -- Baixe o script (ou clone o repositório):
 
     git clone https://github.com/Venicius2023/Helplinux.git
+  
+  003 -- Acessar Repositório
+  
+    cd Helplinux 
 
   003 -- Dê permissão de execução:
 
